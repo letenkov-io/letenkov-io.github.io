@@ -1,1 +1,1 @@
-# letenkov-io.github.io
+# letenkov.io
